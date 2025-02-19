@@ -12,7 +12,7 @@ Cette militarisation s'inscrit dans le « Grand Jeu Indo-Pacifique », où Madag
 1. **Stratégie Chinoise** :  
    - Investissements « Ceinture et Route » conditionnés à l'accès militaire (modèle Sri Lanka x10)  
    - Contrôle exclusif des mines de graphite (90% de la production mondiale d'ici 2028)[3]  
-   - Implantation du système de paiement CIPS pour contourner le SWIFT  
+   - Implantation du système de paiement CIPS (https://www.cips.com.cn/) pour contourner le SWIFT  
 
 2. **Contre-Mesures Occidentales** :  
    - Activation du protocole **PACTE21** (Présence Avancée pour le Contrôle des Terres Rares)  
